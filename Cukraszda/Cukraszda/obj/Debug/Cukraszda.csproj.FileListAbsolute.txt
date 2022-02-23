@@ -1,0 +1,13 @@
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\bin\Debug\sutemenyek.txt
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\bin\Debug\Cukraszda.exe.config
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\bin\Debug\Cukraszda.exe
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\bin\Debug\Cukraszda.pdb
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.csproj.AssemblyReference.cache
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.Form1.resources
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.Properties.Resources.resources
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.csproj.GenerateResource.cache
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.csproj.CoreCompileInputs.cache
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.exe
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.pdb
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.Form_Nevjegy.resources
+C:\Users\lalle\source\repos\Cukraszda\Cukraszda\obj\Debug\Cukraszda.Form_Sutemenyek.resources
